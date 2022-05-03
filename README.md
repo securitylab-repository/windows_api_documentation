@@ -1,2 +1,3 @@
-# windows_api_documentation
-Require to install idapro with python2.7
+# windows_api_documentation plugin for idapro
+
+Just put on the plugin folder of idapro installation directory
