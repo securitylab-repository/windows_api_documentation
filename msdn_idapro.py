@@ -25,7 +25,7 @@
 from idaapi import *
 from idautils import * 
 from subprocess import Popen
-import httplib, urllib2,webbrowser
+import webbrowser
 
 import ida_kernwin
 
